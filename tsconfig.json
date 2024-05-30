@@ -6,6 +6,14 @@
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
+    "paths": {
+      "lib": [
+        "./dist/lib"
+      ],
+      "sublib": [
+        "./dist/lib/sublib"
+      ]
+    },
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
