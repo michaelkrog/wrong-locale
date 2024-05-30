@@ -1,5 +1,5 @@
 /*
- * Public API Surface of detail-view
+ * Public API Surface
  */
 
 
